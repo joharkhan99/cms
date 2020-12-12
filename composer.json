@@ -1,0 +1,19 @@
+{
+    "name": "7.cmsproj/cms",
+    "description": "just a simple cms project",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "pusher/pusher-php-server": "^4.1"
+    },
+    "autoload": {
+        "classmap": [
+            "classes"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Johar Khan",
+            "email": "joharkhan1999@gmail.com"
+        }
+    ]
+}
