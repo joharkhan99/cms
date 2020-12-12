@@ -1,0 +1,4 @@
+.pager li .active{
+  background-color: rgb(181, 181, 214);
+  color: rgb(9, 9, 80);
+}
